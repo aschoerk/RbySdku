@@ -1,0 +1,3 @@
+This is a cgi-version of the clojure-sudoku
+
+It can be tested in http://aschoerk.de/cgi-bin/ruby2.rb
