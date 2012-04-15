@@ -1,3 +1,5 @@
-This is a cgi-version of the clojure-sudoku
+This is a cgi-version of the clojure-sudoku: https://github.com/aschoerk/cljsdku
 
 It can be tested in http://aschoerk.de/cgi-bin/ruby2.rb
+
+Internal documentation see the clojure-project
