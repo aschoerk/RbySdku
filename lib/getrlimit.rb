@@ -1,0 +1,2 @@
+puts Process.getrlimit("AS")
+
